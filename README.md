@@ -8,6 +8,11 @@ development and testing without downloading the full 18GB file.
 Derived from the official RadioML 2018.01A dataset:
 https://www.kaggle.com/datasets/pinxau1000/radioml2018
 
+## Download
+
+Reduced dataset (HDF5):
+https://drive.google.com/file/d/1z4zsO2Tsv_KRE7BLlQ1knI8CTDNsvO4D/view?usp=sharing
+
 ## Contents
 
 File: `DEEPSIG_2018_reduced.hdf5`
